@@ -108,17 +108,17 @@
 <table>
 <tr>
 <td>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Krish-Gupta24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=TusharKaushik1106&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
 </td>
 <td>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Gupta24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKaushik1106&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Krish-Gupta24&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TusharKaushik1106&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -131,7 +131,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Krish-Gupta24&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TusharKaushik1106&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
 
 <br/>
 
